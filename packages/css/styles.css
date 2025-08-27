@@ -80,7 +80,12 @@
   color:#57C9E0;
 
 }
+.phone-h{
+    width: 35px;
+  height: 40px; 
+  color:#57C9E0;
 
+}
 /*========== Variables Dark theme ==========*/
 body.dark-theme {
   /* HSL color mode */
