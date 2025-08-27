@@ -71,8 +71,14 @@
 
 .phone-icon{
   width: 40px;
-  height: 40px;
+  height: 30px;
   color:#57C9E0;
+}
+.Backend-ser{
+   width: 30px;
+  height: 25px; 
+  color:#57C9E0;
+
 }
 
 /*========== Variables Dark theme ==========*/
